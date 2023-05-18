@@ -1,4 +1,12 @@
 body {
-    background: blue;
+    background: rgb(255, 255, 255);
   }
-  
+#title {
+    color:blue;
+    text-align:center;
+    padding:20px;
+    background-color: rgb(23, 22, 22);
+}
+#profile {
+    width:200px;
+}
